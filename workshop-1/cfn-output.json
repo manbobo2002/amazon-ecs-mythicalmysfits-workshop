@@ -1,0 +1,8 @@
+{
+  "Cloud9Env": "https://us-east-1.console.aws.amazon.com/cloud9/ide/637a56133c3d43b1bc8bb95479d3ebe1?region=us-east-1",
+  "LoadBalancerDNS": "alb-mysfits-fargate-1641615211.us-east-1.elb.amazonaws.com",
+  "DynamoTable": "Table-mysfits-fargate",
+  "ProfileName": "mysfits-fargate-MythicalProfile-KEDXNUH1G3FZ",
+  "SiteBucket": "mysfits-fargate-mythicalbucket-1w0tkbvv9z3ya",
+  "S3WebsiteURL": "http://mysfits-fargate-mythicalbucket-1w0tkbvv9z3ya.s3-website-us-east-1.amazonaws.com"
+}
